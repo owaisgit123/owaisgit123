@@ -1,7 +1,8 @@
 <body>
   body{
-  background-colour{red}
-  }
+    background: #0f0a0a;
+   
+}
 # 💫 About Me:
 Studying 
 
