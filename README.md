@@ -1,10 +1,4 @@
 
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://th.bing.com/th/id/R.8d621f66f551b6a39072473d52280ff0?rik=e50u9UwxacHaPg&riu=http%3a%2f%2fchrisdermody.com%2fcontent%2fimages%2f2017%2f12%2fcoding.gif&ehk=boq%2b5%2f33SSpluRXe%2brhALGmPogKkCN4qQx4z6PRCSQI%3d&risl=&pid=ImgRaw&r=0"  />
 
 ###
