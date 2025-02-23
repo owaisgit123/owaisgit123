@@ -1,4 +1,7 @@
-
+<body>
+  body{
+  background-colour{red}
+  }
 # 💫 About Me:
 Studying 
 
@@ -47,5 +50,5 @@ Studying
 ###
 
 <br clear="both">
-
+ </body>
 
