@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://th.bing.com/th/id/R.8d621f66f551b6a39072473d52280ff0?rik=e50u9UwxacHaPg&riu=http%3a%2f%2fchrisdermody.com%2fcontent%2fimages%2f2017%2f12%2fcoding.gif&ehk=boq%2b5%2f33SSpluRXe%2brhALGmPogKkCN4qQx4z6PRCSQI%3d&risl=&pid=ImgRaw&r=0"  />
 
 ###
 
