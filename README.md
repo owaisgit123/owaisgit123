@@ -1,22 +1,31 @@
-<h1>Hi 👋, I'm </h1>
-<p>A passionate frontend developer </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="https://github.com/owaisgit123?123=123">Frontend Developer Experience As a passionate frontend developer, I specialize in creating visually appealing, responsive, and interactive web applications. My experience includes extensive work with HTML5, CSS, JavaScript, and CSS animations, delivering seamless user experiences across various devices and platforms. Below are key aspects of my experience:  Technical Skills: HTML5: Expertise in building semantic, accessible web pages using HTML5 elements. Familiar with modern features like video embedding, forms, and SVG integration. CSS: Proficient in styling responsive layouts using Flexbox, Grid, and media queries. Extensive experience in creating modern UI elements and animations with CSS. JavaScript: Skilled in JavaScript for building dynamic, interactive websites and web applications. Proficient in DOM manipulation, event handling, and AJAX requests for a smooth user experience. CSS Animations: Experienced in using keyframes, transitions, and transformations to create engaging animations that improve the user interface. Responsive Design: Strong focus on mobile-first design and optimization, ensuring that web applications are fully responsive across all devices and screen sizes.</a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-owais-7175a633b/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/MuhammadOwais5261" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/_owais_asif_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=owaisgit123&show_icons=true&locale=en" alt="owaisgit123" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owaisgit123&" alt="owaisgit123" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=owaisgit123&show_icons=true&locale=en&layout=compact" alt="owaisgit123" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owaisgit123" alt="owaisgit123" /></a></p>
+
+# 💫 About Me:
+Studying 
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/muhammad_owais) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MuhammadOwais5261) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_owais_asif_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-owais-7175a633b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:owais163737@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Owaisgit123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Owaisgit123&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Owaisgit123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Owaisgit123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Owaisgit123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Owaisgit123&icon=9&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 <img align="right" height="150" src="https://th.bing.com/th/id/R.8d621f66f551b6a39072473d52280ff0?rik=e50u9UwxacHaPg&riu=http%3a%2f%2fchrisdermody.com%2fcontent%2fimages%2f2017%2f12%2fcoding.gif&ehk=boq%2b5%2f33SSpluRXe%2brhALGmPogKkCN4qQx4z6PRCSQI%3d&risl=&pid=ImgRaw&r=0"  />
 
